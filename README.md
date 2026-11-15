@@ -126,14 +126,13 @@ My hands-on experience covers the **MERN stack** (MongoDB, Express.js, React.js,
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KRISHNAKANT-KUSHWAHA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="175" alt="Krishnakant's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKANT-KUSHWAHA&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="175" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNAKANT-KUSHWAHA&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KRISHNAKANT-KUSHWAHA&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRISHNAKANT-KUSHWAHA&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 ---
